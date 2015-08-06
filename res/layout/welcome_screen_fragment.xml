@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/welcome_screen_fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fte_bg_splash" >
+
+    <ImageButton
+        android:id="@+id/button_next"
+        android:layout_width="@dimen/button_width"
+        android:layout_height="@dimen/button_height"
+        android:layout_gravity="bottom|right"
+        android:layout_marginBottom="@dimen/button_margin_bottom"
+        android:layout_marginRight="@dimen/margin_right"
+        android:onClick="onNextClick"
+        android:src="@drawable/fte_button_start_arrows" />
+
+</FrameLayout>

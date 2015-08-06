@@ -1,0 +1,10 @@
+Install
+=======
+
+    $ adb remount
+    $ adb push $ANDROID_PRODUCT_OUT/system/app/FTE.apk /system/app/
+
+Run
+===
+
+    $ adb shell am start -n com.jamdeo.tv.fte/.MainActivity

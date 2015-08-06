@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+ * Copyright 2012 - Jamdeo
+ */
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/user_agreement_action_area"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.media.box.fte.ObservableScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/scrollview_user_agreement_info"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:nextFocusDown="@id/button_next"
+        android:nextFocusRight="@id/scrollview_user_agreement_info" >
+
+        <TextView
+            android:id="@+id/textview_user_agreement_info"
+            style="@style/Custom.Info.TextViewWPadding"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:nextFocusRight="@id/scrollview_user_agreement_info"
+            android:text="@string/user_agreement_info"
+            android:textSize="@dimen/text_size_small" />
+    </com.media.box.fte.ObservableScrollView>
+
+</LinearLayout>

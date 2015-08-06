@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+ * Copyright 2012 - Jamdeo
+ */
+-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/source_selector_action_area"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical" >
+
+    <RelativeLayout
+        android:id="@+id/source_selector_action_area_inner"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/info_side_margin"
+        android:layout_marginRight="@dimen/info_side_margin"
+        android:gravity="center_vertical"
+        android:padding="@dimen/action_area_padding" >
+
+        <TextView
+            android:id="@+id/textview_curr_source_text"
+            style="@style/Custom.Info.TextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_gravity="left"
+            android:layout_marginRight="@dimen/small_margin"
+            android:text="@string/curr_source"
+            android:textSize="@dimen/text_size_large" />
+
+        <TextView
+            android:id="@+id/textview_curr_source"
+            style="@style/Custom.Info.TextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@id/textview_curr_source_text"
+            android:layout_gravity="left"
+            android:layout_toRightOf="@id/textview_curr_source_text"
+            android:textSize="@dimen/text_size_large" />
+
+        <Button
+            android:id="@+id/button_change_source"
+            android:layout_width="@dimen/button_wide_width"
+            android:layout_height="@dimen/button_height"
+            android:layout_alignBaseline="@id/textview_curr_source_text"
+            android:layout_alignParentRight="true"
+            android:text="@string/change_source"
+            android:layout_gravity="right" />
+    </RelativeLayout>
+
+</RelativeLayout>

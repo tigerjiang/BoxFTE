@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tv_settings_tuner_inputs">
+        <item>模拟电视</item>
+        <item>数字电视</item>
+    </string-array>
+
+    <string-array name="tv_settings_tuner_inputs_with_dtmb">
+        <item>模拟电视</item>
+        <item>有线数字电视</item>
+        <item>地面数字电视</item>
+    </string-array>
+
+    <string-array name="tv_settings_tuner_inputs_atv_dtmb">
+        <item>模拟电视</item>
+        <item>地面数字电视</item>
+    </string-array>
+
+</resources>

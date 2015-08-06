@@ -1,0 +1,46 @@
+<!-- Copyright 2012 Jamdeo -->
+<resources>
+
+    <dimen name="button_margin_bottom">58dp</dimen>
+    <dimen name="button_margin_top">10.34dp</dimen>
+    <dimen name="margin_right">40dp</dimen>
+    <!-- 93.34 in spec = margin_top+progress_bar_height -->
+    <dimen name="margin_top">87.34dp</dimen>
+    <dimen name="button_width">166.67dp</dimen>
+    <dimen name="button_wide_width">200dp</dimen>
+    <dimen name="button_height">40dp</dimen>
+    <dimen name="info_container_width">781.34dp</dimen>
+    <dimen name="info_container_height">494.67dp</dimen>
+    <dimen name="progress_bar_height">6dp</dimen>
+    <dimen name="title_margin_top">25.34dp</dimen>
+    <dimen name="descr_margin_top">13.34dp</dimen>
+    <dimen name="info_margin_top">12.67dp</dimen>
+    <dimen name="info_margin_top_wide">32.67dp</dimen>
+    <dimen name="tip_margin_top">26.67dp</dimen>
+    <dimen name="tip_margin_bottom">32dp</dimen>
+    <dimen name="info_side_margin">33.34dp</dimen>
+    <dimen name="action_area_padding">26.67dp</dimen>
+    <dimen name="side_margin_to_fit_into_asset">6px</dimen>
+    <dimen name="small_margin">6.67px</dimen>
+    <dimen name="medium_margin">16.67px</dimen>
+    <dimen name="between_radiobuttons_margin">29.34dp</dimen>
+    <dimen name="margin_network_images">44dp</dimen>
+    <dimen name="progress_bar_channels_margin_top">10dp</dimen>
+    <dimen name="progress_bar_channels_margin_bottom">6.67dp</dimen>
+    <dimen name="progress_bar_channels_width">400dp</dimen>
+    <dimen name="hicloud_text_margin">40dp</dimen>
+    <dimen name="textlabel_margin">230dp</dimen>
+    <dimen name="scan_channels_margin">25dp</dimen>
+    <dimen name="scan_channels_button_margin">20dp</dimen>
+    <dimen name="scan_tuner_mode_spinner_width">180dp</dimen>
+    <dimen name="imageview_delimeter_height">0.66dp</dimen>
+    <dimen name="text_size_large">30dp</dimen>
+    <dimen name="text_size_medium">25dp</dimen>
+    <dimen name="text_size_small">20dp</dimen>
+     <!-- Banner carousel -->
+    <dimen name="banner_indicator_margin_bottom">6.67dp</dimen>
+    <dimen name="banner_indicator_height">20dp</dimen>
+    <dimen name="banner_indicator_dot_gap">4dp</dimen>
+    <dimen name="banner_indicator_dot_margin">16dp</dimen>
+
+</resources>

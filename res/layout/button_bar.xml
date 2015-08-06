@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+ * Copyright 2012 - Jamdeo
+ */
+-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/button_margin_bottom"
+    android:layout_marginRight="@dimen/margin_right"
+    android:layout_marginTop="@dimen/button_margin_top"
+    android:gravity="right"
+    android:orientation="horizontal"
+    tools:ignore="ExtraText" >
+
+    <Button
+        android:id="@+id/button_back"
+        android:layout_width="@dimen/button_width"
+        android:layout_height="@dimen/button_height"
+        android:layout_marginRight="@dimen/margin_right"
+        android:onClick="onBackClick"
+        android:text="@string/previous" />
+
+    <Button
+        android:id="@+id/button_next"
+        android:layout_width="@dimen/button_width"
+        android:layout_height="@dimen/button_height"
+        android:layout_toRightOf="@id/button_back"
+        android:onClick="onNextClick"
+        android:text="@string/next" />
+
+</RelativeLayout>

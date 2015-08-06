@@ -1,0 +1,159 @@
+<!-- Copyright 2012 Jamdeo -->
+<resources>
+
+    <string name="app_name">FTE</string>
+    <string name="title_activity_main">FTE</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="agree">Agree</string>
+
+    <!-- Tutorial -->
+    <string name="tutorial_title">Remote Control</string>
+    <string name="done">Done</string>
+
+    <!-- User Agreement -->
+    <string name="user_agreement_title">End User Agreement</string>
+    <string name="user_agreement_descr">This is your End User Agreement. Please read carefully.</string>
+    <string name="user_agreement_info">\nTerms of Service
+\n\nWelcome to use CVTE Smart TV!
+\nPlease carefully read and fully understand the terms of this Agreement before using our services. If you use our services, it indicates you agree to be bound by the terms of this Agreement.
+\nI. Product liability limit
+\nAll information, documents, products, and services, trademarks, graphics, pictures, Logo (above mentioned contents are referred to as the "information" hereinafter) provided by this TV terminal have a legitimate intellectual property right, and are property of CVTE. Unauthorized use of any information contained in this TV terminal may infringe the intellectual property of CVTE.
+\nCVTE will grant the user to display the above information limited to this TV terminal and for the purpose of personal use. Users should be aware that without the written consent of CVTE, the user may not use information provided by CVTE for any other purpose. The users should strictly abide to not copying, distributing, selling, publishing, broadcasting or circulating any information contained in this material to any person (including other persons in the same company or organization with the user). Without making a written statement to CVTE, the users have no right to modify, edit, change or add any of the contents of this information in any way. If users violates any provision of these terms, CVTE shall have the right to terminate the users’ behavior, and without prior notice to the users. Once the license is terminated, the user should immediately destroy any information and applications pre-installed or downloaded from this TV terminal, without prior notice from CVTE.
+\nThe users should understand that this terminal may have some errors influencing data quality as well as third-party content or typographical errors. For any third party content, whether in whole or in part, without CVTE’s verification or identification, the same, CVTE can not provide guarantee for correctness or timeliness of third-party content.
+\nII. Definition of service
+\n\“CVTE Smart TV\” is Smart TV developed by CVTE. You can use the services and software products provided by this TV terminal in accordance with certain terms and conditions license provided in this Agreement.
+\nIf a service requires downloading or containing downloadable software, the software may be automatically updated on your device when launching new version or new features. Some services may allow you to adjust the update settings.
+\nCVTE allows you to use the software provided by CVTE and contained in the service. This license is only designed to allow you to use the services provided by CVTE and benefit from it in the manner permitted by this clause. You may not copy, modify, publish, sell or lease any part of CVTE services or software contained, and may not copy, imitate, copy any part of CVTE services or design, and may not conduct reversed engineering or attempt to extract the software source code, unless the above limit is prohibited by law, or you have access to the written authorization of the CVTE.
+
+\nIII. Change and notification of terms 
+\nCVTE Media keeps the right to update, amend, supplement and otherwise modify content of relevant terms or conditions. When modifying relevant terms, CVTE will notify modified results on important pages, without notifying individual users. If having objections to the revised terms, the users can stop using services provided by CVTE. If users continue to use services provided by CVTE, it is deemed as the users have accepted the amended terms of CVTE.
+
+\nIV. Change, interruption and termination of service contents 
+\nCVTE reserves the right to modify, suspend or stop the related services at any time, within the possible extent, CVTE will warn you about any change, pause or stop of services.
+\nYou can stop using one or more of the services provided by CVTE according to the actual situation at any time. CVTE has the right to determine whether your behavior is in line with the requirements of terms of service of CVTE, if you violate the terms of service, CVTE shall have the right to suspend and terminate your service.
+
+\nV. User information and privacy protection
+\nYou agree to provide accurate and complete information consistent with the current situation (\"user information\") when using the services. If any information you provide is false, inaccurate or incomplete, CVTE may terminate your right to use relevant services.
+\nCVTE Media will make every reasonable effort to protect user information you delivered, unless required by laws, statutes or governmental departments, but you acknowledge and agree that the risk of your submitting such information shall be born by your own, CVTE declares not to assume any responsibility to you in any way for any loss or any liability with such information.
+
+\nVI. User responsibility
+\nWhen you use the services provided by CVTE, you must ensure that:
+\n(1) Comply with the relevant Chinese laws and regulations.
+\n(2) Do not use the service for illegal purposes.
+\n(3) Do not interfere with normal service.
+\n(4) Comply with all network protocols, regulations, procedures and practices on use of services.
+\n(5) Do not violate intellectual property rights of CVTE in any form.
+\nYou promise not to transmit and spread any unlawful, harassing, insulting, slandering, threatening, vulgar and obscene information and materials. You also may not transfer and disseminate any information and materials abetting others to commit criminal acts; you shall not transfer and disseminate pornographic, reactionary or bad information endangering the social stability, and data and information relating to national security; and not transmit and disseminate any information and materials whose spreading is prohibited by laws and regulations.
+\nIf you spread and disseminate reactionary, pornographic or other information and data in violation of state laws and regulations, CVTE may provide this to relevant law enforcement authorities as evidence of your violation of laws and regulations.
+
+\nVII. The use of related products and services
+\nRelated services provided by this TV terminal may offer interactive features, you represent and agree that your use of such features include but are not limited to submitting or posting information and materials or links, without infringing any other parties\’ legitimate rights, and violating any laws. Additionally, you hereby grant to CVTE worldwide, royalty-free non-exclusive license to use such materials as part of the services and under circumstances where they are related to relevant products, without having to give you any remuneration or undertake any obligation
+\nCVTE Media reserves the right not to post or publish any materials, as well as to delete, remove or edit any materials in its sole discretion at any time and without notice or liability.
+VIII. Objectionable content
+\nIn the use of the service, you may experience objectionable contents which may be considered explicit or pornographic and others, for such contents, CVTE does not assume any responsibility to you. 
+
+\nIX. Special reminder to young users 
+\nYoung users must abide by the National Youth Network Civilization Convention: to be good at e-learning, not browse bad information; honestly and friendly exchange, do not insult or defraud others; enhance the sense of self-protection, do not casually date net friends; maintain network security, do not destroy network order; improve the health, not addicted to the virtual space and time.
+
+\nX. Intellectual property
+\n(1) Confirmation of ownership. 
+\nYou agree that the related services (including but not limited to products, pictures, user interface, sound material, editorial content and scripts and software used in installation services) contain proprietary information and materials owned by CVTE and/or third-party developers, subject to protection by applicable intellectual property laws and other laws (including but not limited to copyright laws), you will not use such proprietary information or materials in any way, unless for the purpose of using the services under the terms of this Agreement. In addition to those explicitly permitted in this agreement, you shall not copy any part of the services in any form or by any means. You agree not to modify, rent, lease, lend, sell, and distribute related services in any way, or create derivative works based on related services, and you may not use the services in any unauthorized way, including but not limited to encroachment of network capacity or overloading the network capacity.
+\n(1) Trademark. \
+\nCVTE’s logo and CVTE\’s other trademarks, service marks, graphics and logos used by related services are trademarks or registered trademarks of CVTE. Other trademarks, service marks, charts, and logos used in related services may be trademarks of their respective owners. You are not granted any right or any license by CVTE on any of these trademarks or the use of such trademarks.
+
+\nXI. Guarantee or assurance
+\nCVTE makes no warranty and accepts no responsibility for the authenticity, legitimacy, accuracy and effectiveness of all kinds of information posted on TV terminals.
+\nCVTE neither guarantees the legality, accuracy, security and integrity of any software downloaded by you, nor bears any form of loss or damage caused by the use of these downloaded software.
+\nFor risk and responsibility on your use of services provided by CVTE, CVTE does not make any warranty or guarantee, express or implied. CVTE does not guarantee services provided must be able to meet your requirements, do not guarantee the services will not be interrupted and terminated. If you can not receive information due to your location, shutdown, and other non-CVTE reasons, CVTE will not be liable.
+
+\nXII. Maintenance and support
+\nThe provider of each related product is only responsible for providing any maintenance and support services on the product it grants license to use in accordance with the applicable End User License Agreement or applicable laws. You acknowledge, CVTE is under no obligation to provide any maintenance and support services on any third-party licensed related products.
+
+\nXIII. Applicable laws
+\nThese terms of service and use of related services are governed by the laws of PR China. Effect and interpretation of the terms of service are governed by the laws of PR China, you agree to submit any disputes incurred from these terms of service and related services to the PRC courts having jurisdiction over CVTE’s place. If terms of service of CVTE are in conflict with laws and regulations of the People\'s Republic of China, these terms shall be fully interpreted and implemented in accordance with the laws and regulations, while other terms still maintain their legal effects and impacts on you.
+
+\nXIV. Other
+\n(1) When you use services of affiliated companies, third-party contents or third-party software, you may have to comply with other terms and conditions.
+\n(2) If any provision of this Agreement is entirely or partially invalid for any reason, it shall not affect the validity and binding force of other provisions.
+\n(3) The interpretation of the Agreement is vested in CVTE. If users have any questions about the terms of this Agreement, please visit the relevant page of CVTE Media websites, or call the customer service phone.
+\n(4) CVTE Media is not responsible for typographical errors.
+
+\nLatest revision: January 1, 2014
+</string>
+    <string name="user_agreement_tip">Use the D-Pad to scroll End User Agreement.</string>
+
+    <!-- Languages -->
+    <string name="languages_title">Language Selection</string>
+    <string name="languages_descr">Select your language.</string>
+    <string name="languages_tip">You can also select the language in ‘System Settings’ later.</string>
+    <string name="str_curr_lang">Your current language is</string>
+    <string name="str_change_lang_to">更改为</string>
+
+    <!-- Network -->
+    <string name="network_title">Internet Connection</string>
+    <string name="network_descr">Connect to the internet and add your TV experience!</string>
+    <string name="network_tip">You can change the internet connection anytime using ‘System Settings’.</string>
+    <string name="str_wifi">WIFI:</string>
+    <string name="str_wired">Wired:</string>
+    <string name="str_configure_wifi">Configure WIFI</string>
+    <string name="str_configure_wired">Configure Ethernet</string>
+    <string name="switch_to_wifi">Switch to WIFI</string>
+    <string name="switch_to_wired">Switch to Wired</string>
+    <string name="str_not_connected">Not Connected</string>
+    <string name="str_connected">Connected</string>
+    <string name="str_not_detected">Not Detected</string>
+    <string name="str_needs_configuration">configuration</string>
+
+    <!-- Location -->
+    <string name="location_title">Location</string>
+    <string name="location_descr">Find content faster. Choose your location.</string>
+    <string name="location_tip">You can set your location anytime using ‘System Settings’.</string>
+    <string name="str_curr_loc">Your current location is</string>
+    <string name="str_change_loc">Change location</string>
+    <string name="settings_personal_area_province_key">settings_personal_area_province_key</string>
+    <string name="settings_personal_area_city_key">settings_personal_area_city_key</string>
+    <string name="default_location">BeiJing</string>
+    <string name="china">China</string>
+
+    <!-- Channels -->
+    <string name="channels_title">Channels</string>
+    <string name="channels_descr">Live TV will be available once scanning is complete.</string>
+    <string name="channels_tip">You will be able to scan for channels in settings later.</string>
+    <string name="str_start_scan">Start scanning</string>
+    <string name="str_cancel_scan">Cancel scanning</string>
+    <string name="str_scan_again">Scan again</string>
+    <string name="str_scan_mode_select_hint">Select the Tuner for channel scanning</string>
+    <string name="str_tv_type_digital_dvbc">Digital TV-DVBC</string>
+    <string name="str_tv_type_digital_dtmb">Digital TV-DTMB</string>
+    <string name="str_tv_type_analog">Analog TV</string>
+    <string name="str_scan_status_not_scanned">Not scanned</string>
+    <string name="str_scan_status_scanning">Scanning&#8230;</string>
+    <string name="str_scan_status_complete">Scan complete</string>
+    <string name="str_scan_status_cancelled">Scan cancelled</string>
+
+    <!-- HiCloud -->
+    <string name="hicloud_title">CVTE Cloud</string>
+    <string name="hicloud_descr">Join CVTE Cloud and download from hundreds of fun apps!</string>
+    <string name="hicloud_tip">You can manage your Hi Cloud account anytime using ‘System Settings’.</string>
+    <string name="hicloud_tip_no_network">You can go to previous step to set up your Internet.</string>
+    <string name="str_hicloud_join">Join CVTE Cloud to get enhanced content!</string>
+    <string name="str_hicloud_congratulations">Congratulations %1$s!</string>
+    <string name="str_hicloud_logged_in">You have successfully logged in the CVTE Cloud account</string>
+    <string name="str_login">Log in</string>
+    <string name="str_logout">Log out</string>
+    <string name="str_hicloud_not_connected">The TV is not connected to Internet</string>
+    <string name="str_hicloud_no_network_explanation">You will need to connect to the Internet to create or log in your cloud acount.</string>
+
+    <!-- Live TV Input Source -->
+    <string name="settings_live_tv_input_source_key">com.jamdeo.settings.livetv.input_source</string>
+    <string name="source_selector_title">Live TV Source</string>
+    <string name="source_selector_descr">Configure your Live TV experience to use the built in tuner or a connected set top box.</string>
+    <string name="source_selector_tip">You will be able to select a Live TV source in settings later.</string>
+    <string name="curr_source">Live TV is using the </string>
+    <string name="change_source">Change</string>
+    <string name="title_activity_live_tv_input_source">Live TV Input Source</string>
+    <string name="no_data_available">No data available</string>
+    <string name="built_in_tuner">Built-in tuner</string>
+    
+</resources>

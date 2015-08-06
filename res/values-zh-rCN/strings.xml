@@ -1,0 +1,144 @@
+<!-- Copyright 2012 Jamdeo -->
+<resources>
+
+    <string name="app_name">开机设置导航</string>
+    <string name="title_activity_main">开机设置导航</string>
+    <string name="previous">上一步</string>
+    <string name="next">下一步</string>
+    <string name="agree">同意</string>
+
+    <!-- Tutorial -->
+    <string name="tutorial_title">遥控器</string>
+    <string name="done">确定</string>
+
+    <!-- User Agreement -->
+    <string name="user_agreement_title">服务信息&amp;免责声明</string>
+    <string name="user_agreement_descr">请使用方向键翻屏</string>
+    <string name="user_agreement_info">\n服务条款
+\n\n欢迎使用CVTE智能电视！
+\n您在使用我们的服务前请认真阅读、充分理解本协议中的各项条款。如果您使用我们的服务，即表示您已同意接受本协议各项条款的约束。 
+\n1、 产品责任限制
+\n本电视终端中所提供的所有信息、文件、产品，以及服务、商标、图形、图片、Logo（上述涉及内容以下简称为“资料”）都具有合法的知识产权，是CVTE的财产。未经允许使用本电视终端中所包含的任何资料，都可能侵犯CVTE的知识产权。
+\nCVTE将授予用户仅限于在本电视终端上，以个人使用为目的显示上述资料。用户应了解，未经CVTE书面同意，用户不得以其他任何目的来使用CVTE提供的资料。用户应严格遵守不向任何人（包括与用户处于同一公司或组织的其他人）复制、散布、销售、出版、广播或者流通本资料所包含的任何信息。用户在未对CVTE做出书面说明的情况下，无权以任何方式修改、编辑、改变或者增加本资料中的任何内容。如果用户违反上述条款中任何一项条款，CVTE有权终止用户的使用行为，并且无需事先通知该用户。一旦该许可终止，用户应立即销毁从本电视终端获得的任何预装或者下载的资料及应用程序，CVTE无需事先通知。
+\n用户应理解，本终端可能会存在某些影响资料质量以及第三方内容的差错或者印刷错误。任何第三方内容，无论是其整体或是部分，并未经过CVTE的核实或者鉴定，同样，CVTE并不能为第三方内容的正确性或者时效性提供保证。
+\n2、 服务的定义
+\n“CVTE智能电视”是由CVTE开发的智能电视。您可以依照本协议规定的某些条款和条件许可使用本电视终端提供的服务及软件产品。
+\n如果某项服务要求下载或包含可下载软件，该软件可能会在新版本或新功能推出时，在您的设备上自动更新。某些服务可能会允许您自行调整更新设置。 
+\nCVTE允许您使用由CVTE提供的、包含在服务中的软件。本许可仅旨在让您通过本条款允许的方式使用由CVTE提供的服务并从中受益。您不得复制、修改、发布、出售或出租CVTE的服务或所含软件的任何部分，不得复制、模仿、抄袭CVTE的服务或外观设计的任何部分，也不得进行反向工程或试图提取软件的源代码，除非法律禁止上述限制或您已获得CVTE的书面授权。
+\n3、 条款的变更和通知
+\n    CVTE保留随时更新、修订、补充及以其他方式修改相关条款内容的权利。修改相关条款时，CVTE将在相关重要页面上公告修改后的结果，而不另行对用户进行通知。如用户对修改后的条款存有异议，则用户可以停止使用CVTE提供的服务。如用户继续使用CVTE提供的服务，则视为用户已接受CVTE修订后的条款内容。
+\n4、 服务内容的变更、中断和终止
+\n    CVTE保留在任何时候修改、暂停或停止有关服务的权利，在可能的范围内，CVTE将事先提醒您有关服务的修改、暂停或停止。
+\n您可根据实际情况随时停止使用CVTE提供的一项或多项服务。CVTE有权判定您的行为是否符合CVTE服务条款的要求，如果您违背了服务条款的规定，CVTE有权中断和终止对您提供服务。
+\n5、 用户信息和隐私保护
+\n    您同意在使用有关服务的过程中提供准确、完整的信息（以下称“用户信息”）。如果您提供的任何信息是虚假、不准确或不完整的，CVTE可终止您使用有关服务的权利。 
+\nCVTE将合理保护您提交的用户信息，除非有法律、法规或政府有关部门要求；但是您确认并同意，您提交该等信息的风险由您自行承担，CVTE特此声明不以任何方式就与该等信息有关损失或责任向您承担责任。
+\n6、 用户义务
+\n    您在使用CVTE提供的服务时必须保证:
+\n（1） 遵守中国有关法律法规的规定。
+\n（2） 不利用服务作非法用途。
+\n（3） 不干扰服务的正常进行。
+\n（4） 遵守所有与使用服务有关的网络协议、规定、程序和惯例。
+\n（5） 不得以任何形式侵犯CVTE的知识产权。
+\n您承诺不传输、传播任何非法、骚扰性、侮辱、毁谤他人、恐吓性、庸俗和淫秽的信息、资料。您也不得传输、传播任何教唆他人实施犯罪行为的信息、资料；不得传输、传播黄色、反动或任何危及社会稳定的不良信息、资料和涉及国家安全的信息、资料；不得传输、传播任何法律、法规禁止传播的其他信息、资料。
+\n您若通过CVTE电视终端散布和传播反动、色情或其他违反国家法律、法规的信息、资料，CVTE有可能将此作为您违反法律、法规的证据，并向有关执法部门提供。
+\n7、 有关产品和有关服务的使用
+\n   本电视终端提供的有关服务可能提供互动功能。您声明并同意，您对此功能的使用，包括但不限于您提交或张贴的任何信息、材料或链接，不得侵犯任何其他方的合法权利、不得违反任何法律。此外，您特此向CVTE授予世界范围内的、免使用费的许可，许可其作为有关服务的一部分和在与有关产品相关的情况下使用该材料，而无须为此对您给予报酬或承担义务。
+\nCVTE保留在无须做出通知或承担责任的情况下不张贴、不公布及删除材料的权利。
+\n8、 令人反感的内容
+\n    在使用第三方提供的有关服务时，您也许会遇到可能被视为是露骨、色情成分等令人反感的内容，对此类内容，CVTE不向您承担任何责任。
+\n9、 青少年用户特别提示
+\n    青少年用户必须遵守全国青少年网络文明公约：要善于网上学习，不浏览不良信息；要诚实友好交流，不侮辱欺诈他人；要增强自护意识，不随意约会网友；要维护网络安全，不破坏网络秩序；要有益身心健康，不沉溺虚拟时空。
+\n10、 知识产权
+\n（1） 所有权的确认
+\n您同意，有关服务（包括但不限于有关产品、图片、用户界面、声音素材、编辑内容和安装有关服务所使用的脚本和软件）包含CVTE和/或第三方开发者拥有的专有信息和材料，受适用的知识产权法律和其他法律（包括但不限于著作权法律）的保护，您将不会以任何方式使用该等专有信息或材料，但为了根据本协议条款使用有关服务的目的而使用的除外。除本协议明确允许的以外，不得以任何形式或任何方式复制有关服务的任何部分。您同意，不以任何方式修改、出租、租赁、出借、出售、分发有关服务，或以有关服务为基础创作衍生作品，并且您不得以任何未经授权的方式利用有关服务。
+\n（2） 商标
+\n“CVTE”以及就有关服务使用的其他CVTE的商标、服务标记、图形和标识是CVTE的商标或注册商标。就有关服务使用的其他商标、服务标记、图表和标识可能是其各自所有人的商标。CVTE未就上述商标或对上述商标的使用授予您任何权利或许可。
+\n11、 担保或保证
+\n    CVTE对电视终端上发布的各类信息的真实性、合法性、准确性及有效性不作任何保证，亦不承担任何责任。
+\nCVTE不保证您下载的任何软件的合法性、准确性、安全性和完整性，也不承担您因使用这些下载软件而造成的任何形式的损失或损害。
+\n您对使用CVTE提供的服务承担的风险和责任，CVTE对此不作任何明示或暗示的担保或保证。CVTE不担保提供的服务一定能满足您的要求，不担保不会中断和终止服务。由于您所在位置、关机等非CVTE的原因而导致您不能接收信息，CVTE将不负任何法律责任。
+\n12、 维护和支持
+\n    每一项有关产品的提供商仅负责按照适用的最终用户使用许可协议或适用法律的要求就其许可使用的有关产品提供维护和支持服务。您确认，CVTE没有任何义务就任何第三方许可使用的有关产品提供维护和支持服务。
+\n13、 法律适用
+\n    本服务条款及有关服务的使用受中华人民共和国法律管辖。本服务条款的效力和解释均适用中华人民共和国法律，您同意将本服务条款及有关服务所发生的任何争议提交CVTE所在的有管辖权的中华人民共和国法院裁决。如CVTE服务条款与中华人民共和国法律、法规相抵触，则这些条款将完全按法律、法规规定解释和执行，而其它条款则依旧保持对您产生法律效力和影响。
+\n14、 其他
+\n（1） 在您使用关联公司服务、第三方内容或第三方软件时，您可能还须遵守其他的条款与条件。
+\n（2） 本协议的任何条款无论因何种原因完全或部分无效，均不影响其他条款的效力和约束力。
+\n（3） 对本协议的解释权属于CVTE。用户如对本协议条款有任何疑问，请浏览CVTE网站相关页面或拨打客服电话。
+\n（4） CVTE不对排印错误承担责任。
+
+\n最终修订时间：2014年1月1日</string>
+
+    <string name="user_agreement_tip">您可以使用方向键进行翻屏</string>
+
+    <!-- Languages -->
+    <string name="languages_title">语言设置</string>
+    <string name="languages_descr"> 请选择语言</string>
+    <string name="languages_tip">您也可以在“系统设置”里对本项进行设置</string>
+    <string name="str_curr_lang">您当前语言为</string>
+    <string name="str_change_lang_to">Change to</string>
+
+    <!-- Network -->
+    <string name="network_title">网络设置</string>
+    <string name="network_descr">联网后，您可以观看网络视频、下载应用，享受更多服务！</string>
+    <string name="network_tip">您也可以后续在“系统设置”中进行网络设置。</string>
+    <string name="str_wifi">WIFI:</string>
+    <string name="str_wired">有线网络：</string>
+    <string name="str_configure_wifi">配置WIFI</string>
+    <string name="str_configure_wired">配置网络</string>
+    <string name="str_not_connected">未连接</string>
+    <string name="str_connected">已连接</string>
+    <string name="str_not_detected">未检测到网络设备</string>
+    <string name="str_needs_configuration">需要配置</string>
+    <string name="switch_to_wifi">切换到无线网络</string>
+    <string name="switch_to_wired">切换到有线网络</string>
+
+    <!-- Location -->
+    <string name="location_title">区域设置</string>
+    <string name="location_descr">设置区域方便您享受与本地相关的服务。</string>
+    <string name="location_tip">您也可以后续在“系统设置”中进行区域设置。</string>
+    <string name="str_curr_loc">您当前的区域为</string>
+    <string name="str_change_loc">更改区域</string>
+    <string name="default_location">北京</string>
+    <string name="china">中国</string>
+
+    <!-- Channels -->
+    <string name="channels_title">搜台设置</string>
+    <string name="channels_descr">精彩节目将马上为您呈现。</string>
+    <string name="channels_tip">您也可以后续在设置菜单中进行搜台设置。</string>
+    <string name="str_tv_type_digital_dvbc">有线数字电视</string>
+    <string name="str_tv_type_digital_dtmb">地面数字电视</string>
+    <string name="str_tv_type_analog">模拟电视</string>
+    <string name="str_scan_status_scanning">搜索&#8230;</string>
+    <string name="str_scan_status_complete">搜索完成</string>
+    <string name="str_scan_status_cancelled">取消搜索</string>
+    <string name="str_scan_status_not_scanned">尚未搜索</string>
+    <string name="str_start_scan">开始进行搜索</string>
+    <string name="str_cancel_scan">取消搜索</string>
+    <string name="str_scan_again">再次搜索</string>
+    <string name="str_scan_mode_select_hint">请选择通道搜台</string>
+
+    <!-- HiCloud -->
+    <string name="hicloud_title">云账号</string>
+    <string name="hicloud_descr">使用CVTE云账号，您可以下载上千种的应用服务！</string>
+    <string name="hicloud_tip">您也可以后续在“系统设置”中设置CVTE云账号。</string>
+    <string name="hicloud_tip_no_network">您可以返回上一步设置您的网络。</string>
+    <string name="str_hicloud_join">登录云账户获得更多内容！</string>
+    <string name="str_hicloud_congratulations">恭喜!</string>
+    <string name="str_hicloud_logged_in">您成功登录云账户</string>
+    <string name="str_login">登录</string>
+    <string name="str_logout">退出</string>
+    <string name="str_hicloud_not_connected">电视没有连接网络</string>
+    <string name="str_hicloud_no_network_explanation">您需要连接网络来创建或登录您的云账户。</string>
+    
+    <!-- Live TV Input Source -->
+    <string name="source_selector_title">电视信号源</string>
+    <string name="source_selector_descr">请配置电视信号源。使用直连电视信号，或通过机顶盒等方式观看电视。</string>
+    <string name="source_selector_tip">您也可以后续在设置菜单中选择电视信号源</string>
+    <string name="curr_source">您的当前信号源是 </string>
+    <string name="change_source">更改</string>
+    <string name="title_activity_live_tv_input_source">电视信号源</string>
+    <string name="no_data_available">无数据</string>
+    <string name="built_in_tuner">直连电视信号</string>
+</resources>

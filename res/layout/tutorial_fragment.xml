@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+ * Copyright 2012 - Jamdeo
+ */
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tutorial_fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fte_bg_remote"
+    android:gravity="bottom|right"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/content_layout"
+        android:layout_width="@dimen/info_container_width"
+        android:layout_height="@dimen/info_container_height"
+        android:layout_marginRight="@dimen/margin_right"
+        android:layout_marginTop="@dimen/margin_top"
+        android:background="@drawable/fte_container"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textview_tutorial_title"
+            style="@style/Custom.Info.TextViewWPadding"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/title_margin_top"
+            android:text="@string/tutorial_title"
+            android:textSize="@dimen/text_size_large" />
+
+        <FrameLayout
+            android:id="@+id/frame_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_marginLeft="@dimen/side_margin_to_fit_into_asset"
+            android:layout_marginRight="@dimen/side_margin_to_fit_into_asset"
+            android:layout_marginTop="@dimen/info_margin_top_wide"
+            android:layout_weight="1"
+            android:background="#3c3c3c" >
+
+            <com.media.box.fte.BannerCarousel
+                android:id="@+id/carousel"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+        </FrameLayout>
+    </LinearLayout>
+
+    <include layout="@layout/button_bar" />
+
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <plurals name="channels">
+        <item quantity="one">%d channel found</item>
+        <item quantity="other">%d channels found</item>
+    </plurals>
+
+</resources>

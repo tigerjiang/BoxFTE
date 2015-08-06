@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- IMPORTANT: keep in sync with "settings_live_tv_input_source_names" -->
+    <integer-array name="settings_live_tv_input_sources">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+
+    <!-- IMPORTANT: keep in sync with "settings_live_tv_input_sources" -->
+    <string-array name="settings_live_tv_input_source_names">
+        <item>Built-in Tuner</item>
+        <item>HDMI1</item>
+        <item>HDMI2</item>
+        <item>Composite</item>
+        <item>VGA</item>
+    </string-array>
+
+    <string-array name="tv_settings_tuner_inputs">
+        <item>Analog TV</item>
+        <item>Digital TV</item>
+    </string-array>
+
+    <string-array name="tv_settings_tuner_inputs_with_dtmb">
+        <item>Analog TV</item>
+        <item>Digital TV - DVBC</item>
+        <item>Digital TV - DTMB</item>
+    </string-array>
+
+    <string-array name="tv_settings_tuner_inputs_atv_dtmb">
+        <item>Analog TV</item>
+        <item>Digital TV - DTMB</item>
+    </string-array>
+
+</resources>

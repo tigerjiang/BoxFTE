@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+ * Copyright 2012 - Jamdeo
+ */
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fte_bg_ula"
+    android:gravity="bottom|right"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/content_layout"
+        android:layout_width="@dimen/info_container_width"
+        android:layout_height="@dimen/info_container_height"
+        android:layout_marginRight="@dimen/margin_right"
+        android:layout_marginTop="@dimen/margin_top"
+        android:background="@drawable/fte_container"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textview_title"
+            style="@style/Custom.Info.TextViewWPadding"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/title_margin_top"
+            android:text="@string/user_agreement_title"
+            android:textSize="@dimen/text_size_large" />
+
+        <TextView
+            android:id="@+id/textview_descr"
+            style="@style/Custom.Info.TextViewWPadding"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/info_margin_top"
+            android:layout_marginTop="@dimen/descr_margin_top"
+            android:text="@string/user_agreement_descr"
+            android:textSize="@dimen/text_size_medium" />
+
+        <FrameLayout
+            android:id="@+id/layout_action_area"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_marginLeft="@dimen/side_margin_to_fit_into_asset"
+            android:layout_marginRight="@dimen/side_margin_to_fit_into_asset"
+            android:background="#3c3c3c"
+            android:layout_weight="1" >
+        </FrameLayout>
+
+        <LinearLayout
+            android:id="@+id/user_agreement_tip_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/imageview_tip"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/info_side_margin"
+                android:layout_marginBottom="2dp"
+                android:src="@drawable/fte_dpad_tip" />
+
+            <TextView
+                android:id="@+id/textview_tip"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/tip_margin_bottom"
+                android:layout_marginTop="@dimen/tip_margin_top"
+                android:text="@string/user_agreement_tip"
+                android:textColor="#aaaaaa"
+                android:textSize="@dimen/text_size_medium" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <include layout="@layout/button_bar" />
+
+</LinearLayout>

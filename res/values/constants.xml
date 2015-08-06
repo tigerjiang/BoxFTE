@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- this must be an integer: V * 1000 + v -->
+    <integer name="ui_version_code">1007</integer>
+    <string name="ui_version_name">1.7</string>
+
+<!--     <item name="silo_change_anim_scale_100" format="float" type="dimen">1.54</item> -->
+    <integer name="silo_change_anim_duration">1200</integer>
+<!--     <integer name="silo_change_anim_translate_duration">1200</integer> -->
+<!--     <integer name="silo_change_anim_scale_down_delay">0</integer> -->
+<!--     <integer name="silo_change_anim_scale_down_duration">400</integer> -->
+<!--     <integer name="silo_change_anim_scale_up_delay">400</integer> -->
+<!--     <integer name="silo_change_anim_scale_up_duration">400</integer> -->
+<!--     <integer name="silo_change_anim_delay_after_translate">200</integer> -->
+
+    <!-- Banner carousel -->
+    <integer name="banner_max_items">5</integer>
+    <integer name="banner_show_duration_view">5000</integer>
+    <integer name="banner_show_duration_read">10000</integer>
+    <integer name="banner_animation_duration">500</integer>
+
+</resources>

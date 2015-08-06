@@ -1,0 +1,27 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <view
+        android:id="@+id/flipper"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        class="com.media.box.fte.BannerCarousel$Flipper"
+        android:autoStart="true"
+        android:flipInterval="@integer/banner_show_duration_view"
+        android:inAnimation="@anim/banner_animation_in"
+        android:outAnimation="@anim/banner_animation_out" >
+    </view>
+
+    <view
+        android:id="@+id/indicator"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/banner_indicator_height"
+        android:layout_gravity="top|center_horizontal"
+        android:layout_marginTop="@dimen/banner_indicator_margin_bottom"
+        class="com.media.box.fte.BannerCarousel$Indicator"
+        android:background="@drawable/banner_bg"
+        android:orientation="horizontal"
+        android:padding="0dp" >
+    </view>
+
+</merge>
